@@ -1,0 +1,36 @@
+{
+    "name": "KİN",
+    "symbol": "KİN",
+    "description": "If you are a Token holder, you are entitled to 1 free mint. Mint rights are limited. So hurry! KIN! Boxes is a mystery boxes project launched on solana, but minted in $USDC! Mystery Boxes will be able to be opened 1-2 days post-mint and boxes will include a variety of items.",
+    "seller_fee_basis_points": 100,
+    "external_url": "https://kincoin.live/",
+    "edition": "USDC",
+    "background_color": "000000",
+	"symbol": "KİN",
+    "attributes":
+    [
+        {
+            "trait_type": "Claim",
+            "value": "Live"
+        }
+    ],
+    "properties":
+    {
+        "category": "image",
+        "creators":
+        [
+            {
+                "address": "FMJSmuQqqz9izf3pVxoV4ngSeJhDukzMcBGLiMN145MM",
+                "share": 100
+            }
+        ],
+        "files":
+        [
+            {
+                "uri": "https://cdn.discordapp.com/attachments/959673796833456138/1061758871577825290/i.png",
+                "file_type": "image/gif"
+            }
+        ]
+    },
+    "image": "https://cdn.discordapp.com/attachments/959673796833456138/1061758871577825290/i.png"
+}
