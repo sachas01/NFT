@@ -1,0 +1,36 @@
+{
+    "name": "BONK",
+    "symbol": "BONK",
+    "description": "If you are a Token holder, you are entitled to 1 free mint. Mint rights are limited. So hurry! Bonk Boxes is a mystery boxes project launched on solana, but minted in $BONK! Mystery Boxes will be able to be opened 1-2 days post-mint and boxes will include a variety of items.",
+    "seller_fee_basis_points": 100,
+    "external_url": "https://bonkcoin.io",
+    "edition": "Bonk",
+    "background_color": "000000",
+	"symbol": "BONK",
+    "attributes":
+    [
+        {
+            "trait_type": "Claim",
+            "value": "Live"
+        }
+    ],
+    "properties":
+    {
+        "category": "image",
+        "creators":
+        [
+            {
+                "address": "Bsw98fp1Ef2E9PUNgd423YmFEQx6yE2ht7rWKdxA9VVW",
+                "share": 100
+            }
+        ],
+        "files":
+        [
+            {
+                "uri": "https://static.wixstatic.com/media/0dd979_e9164d362411411eb680e426d4b49501~mv2.png/v1/crop/x_759,y_0,w_4961,h_4961/fill/w_223,h_223,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BonkLogo%20copy.png",
+                "file_type": "image/gif"
+            }
+        ]
+    },
+    "image": "https://cdn.discordapp.com/attachments/1027666208306233415/1061008655551570011/box_logo.gif"
+}
