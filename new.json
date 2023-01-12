@@ -1,12 +1,12 @@
 {
-    "name": "HYPE WL",
-    "symbol": "HYPE",
-    "description": "The Embassy is made up of 2223 young primates. We are professional investors and builders with fresh ideas that will revolutionize the NFT ecosystem in both a rising and falling market, providing passive income to holders.",
+    "name": "OWLANA",
+    "symbol": "OWL",
+    "description": "$OWL is a meme coin that dares to be different. Dares to be better. Dares to be bolder. Token Address: BAEHRPk5PAw7YH8fmjka9DvQgyromgbntQwaZ1AMfXWr",
     "seller_fee_basis_points": 100,
-    "external_url": "https://hype-primates.com/",
-    "edition": "HYPE",
+    "external_url": "Change me to website/",
+    "edition": "OWLANA",
     "background_color": "000000",
-	"symbol": "HYPE",
+	"symbol": "OWL",
     "attributes":
     [
         {
@@ -20,17 +20,17 @@
         "creators":
         [
             {
-                "address": "DXmKL5Ta4YzK6wx4eVj5SFJEzYxXbnN22uwZSyEKVBXT",
+                "address": "BAEHRPk5PAw7YH8fmjka9DvQgyromgbntQwaZ1AMfXWr",
                 "share": 100
             }
         ],
         "files":
         [
             {
-                "uri": "https://github.com/mrsortie/NFT/blob/main/V21clH9ai6avX-qWzf8as7Ihp_J5o5dONGU_03I5Ciw.gif?raw=true",
+                "uri": "https://pbs.twimg.com/profile_images/1612124926953283584/3LmMNZj0.jpg",
                 "file_type": "image/gif"
             }
         ]
     },
-    "image": "https://github.com/mrsortie/NFT/blob/main/V21clH9ai6avX-qWzf8as7Ihp_J5o5dONGU_03I5Ciw.gif?raw=true"
+    "image": ""
 }
